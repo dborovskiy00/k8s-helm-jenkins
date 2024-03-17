@@ -3,7 +3,17 @@ entries:
   jenkins-helm:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-03-14T11:15:23.858497653Z"
+    created: "2024-03-17T15:38:17.614278104Z"
+    description: A Helm chart for Jenkins
+    digest: a56f22e4438ddc775d0fe7f178869043fd804b5f257e37683f2b0697d821a8cc
+    name: jenkins-helm
+    type: application
+    urls:
+    - https://dborovskiy00.github.io/k8s-helm-jenkins/releases/jenkins-helm-0.2.0.tgz
+    version: 0.2.0
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-03-17T15:38:17.613436851Z"
     description: A Helm chart for Jenkins
     digest: 729e3b2a66115763ba8b06e654bc7c50d6473b59410554a0ccd454d17f90d5f3
     name: jenkins-helm
@@ -11,4 +21,4 @@ entries:
     urls:
     - https://dborovskiy00.github.io/k8s-helm-jenkins/releases/jenkins-helm-0.1.0.tgz
     version: 0.1.0
-generated: "2024-03-14T11:15:23.857607796Z"
+generated: "2024-03-17T15:38:17.612287264Z"
